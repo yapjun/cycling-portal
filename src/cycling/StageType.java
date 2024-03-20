@@ -1,7 +1,7 @@
 package cycling;
 
 /**
- * This enum is used to represent the stage types  on road races.
+ * This enum is used to represent the stage types on road races.
  * 
  * @author Diogo Pacheco
  * @version 1.0
